@@ -1,3 +1,20 @@
+
+### Machine Learning
+
+- Machine Learning Foundations
+- Supervised Learning
+- UnSupervised Learning
+- Reinforcement Learning
+
+
+# Book
+                                      Book to Complete
+
+- Learning with data
+- Deep Learning by Ian Goodfellow
+- statistical Slueth
+
+
 # Deep_learning_Challenge
 
 
